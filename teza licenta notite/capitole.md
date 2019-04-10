@@ -8,10 +8,11 @@
   7. Store Redux
   8. Integrarea Reduxului in React 
   9. Ecosistema reduxului
-2. Alternative
-   **1. Mobx**
-   **2. Mobx-state-tree**
-   **3. Context API**
+2. Solutii alternative ce rezolva acceasi problema
+   **1. React + Mobx sau Mobx-state-tree**
+   **2. React + Context API**
+   **3. Vue + Vuex**
+   **3. Angular + Ngrx**
 3. Elaborarea Aplicatiei Booky
    1. Tehnologii necesare pentru dez aplicatie
       1. node.js + npm
