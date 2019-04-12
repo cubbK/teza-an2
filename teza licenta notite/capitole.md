@@ -1,13 +1,13 @@
 1. Prezentarea Bibliotecii Redux si React.js
   1. Scurt istoric
-  **2 Motivele utilizarii React**
-  ***3 Bazele React***
-  4. Motivele utilizarii Redux 
-  5. Bazele Redux 
-  6. Actiuni Redux 
-  7. Store Redux
-  8. Integrarea Reduxului in React 
-  9. Ecosistema reduxului
+  2. Motivele utilizarii React
+  3. Bazele React
+  1. Motivele utilizarii Redux 
+  2. Bazele Redux 
+  3. Actiuni Redux 
+  4. Store Redux
+  5. Integrarea Reduxului in React 
+  6. Ecosistema reduxului
 2. Solutii alternative ce rezolva acceasi problema
    **1. React + Mobx sau Mobx-state-tree**
    **2. React + Context API**
